@@ -1,0 +1,16 @@
+<svg id="Sep" xmlns="http://www.w3.org/2000/svg" width="120" height="10" viewBox="0 0 120 10" y="5">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffae42;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c18f59;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .cls-1 {
+        fill: url(#gradient);
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Sep_" data-name="Sep " class="cls-1" d="M42,10V8h80V10H42Z"/>
+  <path id="Sep-2" data-name="Sep" class="cls-1" d="M1,2V0h80V2H1Z"/>
+</svg>
